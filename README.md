@@ -2,7 +2,9 @@
 Programa desafio desenvolvido na faculdade (Linguagem de Programação) para manipulação de arquivos".txt"
 
 
------------------------------------- Desafio 1:
+<b>------------------------------------ Desafio 1: </b>
+
+
 Escreva um programa que tem 1 vetores bidimensional produto[3][20] e 1 vetores quantidade[3] declaradas como variáveis globais. Na função main() faça um menu com as seguintes funções:
 
 1 – entrada de dados.
@@ -17,7 +19,7 @@ OBS: Os 2 vetores devem ser escritos e lidos de um arquivo.
 
 
 
------------------------------------- Desafio 2:
+<b>------------------------------------ Desafio 2: </b>
 
 
 Escreva um programa que tem a estrutura de dados abaixo. O programa tem as seguintes opções de menu:
