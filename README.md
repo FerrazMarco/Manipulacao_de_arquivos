@@ -1,5 +1,5 @@
 # Programa-Desafio
-Programa desafio desenvolvido na faculdade (Linguagem de Programação) para manipulação de arquivos".txt"
+Programa desafio desenvolvido na faculdade (Linguagem de Programação) para manipulação de arquivos
 
 
 <b>------------------------------------ Desafio 1: </b>
